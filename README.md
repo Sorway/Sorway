@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan alias Sorway</h1>  
 
+- 💻 I'm Programer and System Administrator
 - 🔭 I’m currently working on [FariSun Launcher]()
 - 👯 Developer at [FariSun](https://farisun.fr)
 - 🤔 I'm looking for help with project ideas.
