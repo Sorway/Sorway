@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jonathan aka Sorway</h1>  
+<h1 align="center">Hi 👋, I'm Jonathan alias Sorway</h1>  
 
 - 🔭 I’m currently working on [FariSun Launcher]()
 - 👯 Developer at [FariSun](https://farisun.fr)
 - 🤔 I'm looking for help with project ideas.
 - 😄 Pronouns: Sorway, SorWayHD, JonathanSoso
 
-## 💻 Programming languages:<h1 align="center">💻 Programming languages:</h1>  
+## 💻 Programming languages:
 
 <p>
   <img src="https://img.shields.io/badge/Java%20-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
@@ -16,3 +16,5 @@
 </p>  
 
 ## 📊 Statistical
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorway)]
