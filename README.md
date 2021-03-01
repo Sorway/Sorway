@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on [FariSun Launcher]()
 - 👯 Developer at [FariSun](https://farisun.fr)
 - 🤔 I'm looking for help with project ideas.
-- 💻 I use [IntelliJ IDEA](https://www.jetbrains.com/fr-fr/idea/) powered by [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 😄 Pronouns: Sorway, SorWayHD, JonathanSoso
 
-🌍 Programming languages:
+## 💻 Programming languages:
 
-<img src="https://img.shields.io/badge/Java%20-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>    <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java%20-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+
