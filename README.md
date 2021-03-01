@@ -18,5 +18,4 @@
 
 ## 📊 Statistical
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorway&show_icons=true&theme=onedark)]
-[![](https://camo.githubusercontent.com/345e146fd84c89f82d80aaa3f61aa04dc2e1bb6e1dd9a58cf6e95b4f689e673d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d64657270696e6f752673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorway&show_icons=true&theme=onedark)
