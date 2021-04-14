@@ -2,7 +2,7 @@
 
 - 💻 I'm Développer and System Administrator
 - 🔭 I’m currently working on [FariSun Launcher]()
-- 👯 Developer at [FariSun](https://farisun.fr)
+- 👯 Developer at [FariSun](https://farisun.fr) and [Niobium](https://www.niobium-mc.fr)
 - 🤔 I'm looking for help with project ideas.
 - 😄 Pronouns: Sorway, SorWayHD, JonathanSoso
 
