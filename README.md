@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [FariSun Launcher]()
 - 👯 Développer at [FariSun](https://farisun.fr) and [Niobium](https://www.niobium-mc.fr)
 - 🤔 I'm looking for help with project ideas.
-- 😄 Pronouns: Sorway, SorWayHD, JonathanSoso
+- 😄 Pronouns: Sorway, SorWayHD
 
 ## 💻 Programming languages:
 
