@@ -18,4 +18,4 @@
 
 ## 📊 Statistical
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSoso&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorway&show_icons=true&theme=onedark)
