@@ -10,7 +10,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java%20-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  
 </p>  
 
 ## 📊 Statistical
