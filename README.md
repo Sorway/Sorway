@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on [So' Bot]()
 - 👯 Développer at [FariSun](https://farisun.fr)
 
-<a href="https://discord.gg/mCc7PreF96"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
-
 ## 💻 Programming languages / Databases:
 
 <p>
