@@ -2,8 +2,7 @@
 
 - 💻 I'm Développer Java
 - 🔭 I’m currently working on [So' Bot]()
-- 👯 Développer at [FariSun](https://farisun.fr) and [Niobium](https://www.niobium-mc.fr)
-- 🤔 I'm looking for help with project ideas.
+- 👯 Développer at [FariSun](https://farisun.fr)
 
 ## 💻 Programming languages / Databases:
 
