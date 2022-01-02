@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [So' Bot]()
 - 👯 Développer at [FariSun](https://farisun.fr)
 
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/843079316732248086.png" /></p>
+
 ## 💻 Programming languages / Databases:
 
 <p>
