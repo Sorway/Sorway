@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan alias Sorway</h1>  
 
 - 💻 I'm Développer Java
-- 🔭 I’m currently working on [So' Bot]()
+- 🔭 I’m currently working on [FariSun Mod](https://github.com/FariSun-Developpement/FariSun-Mod)
 - 👯 Développer at [FariSun](https://farisun.fr)
 
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/843079316732248086.png"/></p>
