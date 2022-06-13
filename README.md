@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan alias Sorway</h1>  
+<h1 align="center">Hi 👋, I'm Sorway</h1>  
 
 - 💻 I'm Developer Java
 - 🔭 I’m currently working on [FariSun Mod](https://github.com/FariSun-Developpement/FariSun-Mod)
