@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sorway</h1>  
 
-- 💻 I'm Developer Java
+- 💻 I'm Java Developer
 - 🔭 I’m currently working on [FariSun Mod](https://github.com/FariSun-Developpement/FariSun-Mod)
 - 👯 Développer at [FariSun](https://farisun.fr)
 - 👯 Administrator and Developer at [Islandium](https://islandium.fr)
