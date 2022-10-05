@@ -5,7 +5,7 @@
 - 👯 Developer at [FariSun](https://farisun.fr)
 - 👯 Administrator and Developer at [Islandium](https://islandium.fr)
 
-## 💻 Programming languages / Databases:
+## 💻 Programming languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>  
 
-## 📦 Databases:
+## 📦 Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
