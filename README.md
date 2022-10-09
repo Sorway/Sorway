@@ -3,7 +3,7 @@
 - 💻 I'm Java Developer
 - 🔭 I’m currently working on [FariSun Mod](https://github.com/FariSun-Developpement/FariSun-Mod)
 - 👯 Developer at [FariSun](https://farisun.fr)
-- 👯 Administrator and Developer at [Islandium](https://islandium.fr)
+- 👯 System Administrator and Developer at [Islandium](https://islandium.fr)
 
 ## 💻 Programming languages
 
