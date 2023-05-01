@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sorway</h1>  
 
 - 💻 I'm Java Developer
-- 🔭 I’m currently working on [FariSun Mod](https://github.com/FariSun-Developpement/FariSun-Mod)
+- 🔭 I’m currently working on [FariSquad Launcher](https://github.com/FariSun-Developpement/Launcher)
 - 👯 Developer at [FariSun](https://farisun.fr)
 - 👯 System Administrator and Developer at [Islandium](https://islandium.fr)
 
