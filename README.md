@@ -3,9 +3,9 @@
 <h3 align="center">I'm Java Developer and System Administrator</h3>  
 
 - 🔭 I’m currently working on [FariSquad Launcher](https://github.com/FariSun-Developpement/Launcher)
-- 👯 Developer at [FariSun](https://farisun.fr)
-- 👯 System Administrator and Developer at [Islandium](https://islandium.fr)
-- 👯 Volunteer developer at [Historyland](https://www.histoire-monde.fr/)
+- Developer at [FariSun](https://farisun.fr)
+- System Administrator and Developer at [Islandium](https://islandium.fr)
+- Volunteer developer at [Historyland](https://www.histoire-monde.fr/)
 
 ## 💻 Programming languages
 
