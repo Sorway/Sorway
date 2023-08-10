@@ -9,7 +9,7 @@
 
 - 💻 System Administrator and Developer at [FariSun (FariSquad)](https://farisun.fr/)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/sorwayhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sorwayhd" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.somusic.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.somusic.xyz" height="30" width="40" /></a>
@@ -25,6 +25,35 @@
   </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="gnu bash"/>
+  </a> 
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white" alt="nginx"/>
+  </a> 
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="nginx"/>
+  </a> 
+
+  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="java"/>
+  </a> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="java"/>
+  </a> 
+
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="java"/>
+  </a> 
+  <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="java"/>
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="java"/>
+  </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" alt="java"/>
   </a> 
 </p>
 
