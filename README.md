@@ -32,7 +32,8 @@
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="nginx"/>
   </a> 
-
+</p>
+<p align="left"> 
   <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   </a> 
@@ -42,7 +43,8 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="java"/>
   </a> 
-
+</p>
+<p align="left">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="java"/>
   </a> 
