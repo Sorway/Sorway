@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on [So' Music](https://github.com/Sorway/SoMusic)
 - System Administrator and Developer at [So' Music](https://github.com/Sorway/SoMusic)
-- Developer at [FariSun](https://farisun.fr)
-- System Administrator and Developer at [Islandium](https://islandium.fr)
+- System Administrator and Developer at [FariSun](https://farisun.fr)
 
 ## 💻 Programming languages / 📦 Databases
 
