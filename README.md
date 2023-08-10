@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux" width="40" height="40"/>
   </a> 
