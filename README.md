@@ -32,14 +32,12 @@ Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les d
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white" alt="nginx"/>
   </a> 
-</p>
-
-### Langages de Programmation
-<p align="left"> 
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="nginx"/>
   </a> 
 </p>
+
+### Langages de Programmation
 <p align="left"> 
   <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
