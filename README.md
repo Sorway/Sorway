@@ -13,10 +13,8 @@ Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les d
 - 💼 Je suis également administrateur système et développeur chez [FariSun (FariSquad)](https://farisun.fr/), où je continue d'élargir mes compétences dans diverses technologies.
 
 ## 🌐 Me Contacter
-<p align="left">
-  <a href="https://twitter.com/sorwayhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sorwayhd" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discord.somusic.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.somusic.xyz" height="30" width="40" /></a>
-</p>
+- Twitter : [@sorwayhd](https://twitter.com/sorwayhd)
+- Discord : [Serveur So' Music](https://discord.gg/https://discord.somusic.xyz)
 
 ## 💻 Technologies et Outils
 
