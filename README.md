@@ -8,7 +8,7 @@ Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les d
 
 ## 🚀 Expériences
 
-- 👨‍💻 Actuellement, je suis fortement impliqué dans le développement et l'administration système de [So' Music](https://github.com/So-Music/SoMusic), un projet que j'ai créé et qui regroupe actuellement plus de 1700 serveurs et compte plus de 158,212 utilisateurs. J'y contribue en tant qu'administrateur système et développeur, ce qui me permet d'appliquer et d'améliorer mes compétences en développement Java et en gestion système.
+- 👨‍💻 Actuellement, je suis fortement impliqué dans le développement et l'administration système de [So' Music](https://github.com/So-Music/SoMusic), un projet que j'ai créé et qui regroupe actuellement plus de 1800 serveurs et compte plus de 158,212 utilisateurs. J'y contribue en tant qu'administrateur système et développeur, ce qui me permet d'appliquer et d'améliorer mes compétences en développement Java et en gestion système.
 
 - 💼 Je suis également administrateur système et développeur chez [FariSun (FariSquad)](https://farisun.fr/), où je continue d'élargir mes compétences dans diverses technologies.
 
