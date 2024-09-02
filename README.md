@@ -70,3 +70,5 @@ Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les d
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorway&show_icons=true&title_color=ffffff&text_color=9f9f9f&bg_color=151515&locale=fr&layout=compact" alt="sorway" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorway&show_icons=true&title_color=ffffff&text_color=9f9f9f&bg_color=151515&locale=fr" alt="sorway" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sorway&bg_color=121212&color=ffeaa7&line=fdcb6e&point=ffeaa7&area=true&hide_border=true" alt="sorway" /></p>
