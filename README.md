@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorway&label=Profile%20views&color=1ebfe2&style=flat" alt="sorway" /> </p>
 
-Je suis actuellement en BTS Services Informatiques aux Organisations avec une spécialisation en Solutions d'infrastructure, systèmes et réseaux. 
+Je suis actuellement en Licence Professionnelle Administration et Sécurité des Systèmes et des Réseaux parcours Cloud & Cybersécurité. 
 Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les dernières avancées technologiques. Fort de plus de cinq ans d'expérience en développement Java, je suis toujours impatient de relever de nouveaux défis et de résoudre des problèmes complexes. Ma capacité à travailler de manière autonome et à m'adapter rapidement à de nouvelles situations reflète mon engagement envers l'amélioration continue.
 
 ## 🚀 Expériences
