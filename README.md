@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorway&label=Profile%20views&color=1ebfe2&style=flat" alt="sorway" /> </p>
 
 Je suis actuellement en Licence Professionnelle Administration et Sécurité des Systèmes et des Réseaux parcours Cloud & Cybersécurité. 
-Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les dernières avancées technologiques. Fort de plus de cinq ans d'expérience en développement Java, je suis toujours impatient de relever de nouveaux défis et de résoudre des problèmes complexes. Ma capacité à travailler de manière autonome et à m'adapter rapidement à de nouvelles situations reflète mon engagement envers l'amélioration continue.
+Mon enthousiasme pour l'auto-apprentissage me pousse à rester à jour sur les dernières avancées technologiques. Je suis toujours impatient de relever de nouveaux défis et de résoudre des problèmes complexes. Ma capacité à travailler de manière autonome et à m'adapter rapidement à de nouvelles situations reflète mon engagement envers l'amélioration continue.
 
 ## 🚀 Expériences
 
-- 👨‍💻 Actuellement, je suis fortement impliqué dans le développement et l'administration système de [So' Music](https://github.com/So-Music/SoMusic), un projet que j'ai créé et qui regroupe actuellement plus de +2430 serveurs et compte plus de +181,000 utilisateurs. J'y contribue en tant qu'administrateur système et développeur, ce qui me permet d'appliquer et d'améliorer mes compétences en développement Java et en gestion système.
+- 👨‍💻 Actuellement, je suis fortement impliqué dans le développement et l'administration système de [So' Music](https://github.com/So-Music/SoMusic), un projet que j'ai créé et qui regroupe actuellement plus de +2,650 serveurs et compte plus de +181,000 utilisateurs. J'y contribue en tant qu'administrateur système et développeur, ce qui me permet d'appliquer et d'améliorer mes compétences en développement Java et en gestion système.
 
 - 💼 Je suis également administrateur système et développeur chez [FariSun (FariSquad)](https://farisun.fr/), où je continue d'élargir mes compétences dans diverses technologies.
 
 ## 🌐 Me Contacter
 - Twitter : [@sorwayhd](https://twitter.com/sorwayhd)
-- Discord : [Serveur So' Music](https://discord.gg/https://discord.somusic.xyz)
+- Discord : [Serveur So' Music](https://discord.somusic.xyz)
 
 ## 💻 Technologies et Outils
 
